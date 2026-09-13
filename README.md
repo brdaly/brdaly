@@ -53,4 +53,13 @@ Next.js · React · TypeScript · Node.js · Cloudflare Workers and D1 · Supaba
 
 ---
 
+## Where to start
+
+- **Funders and partners** — [dalyventures.com](https://www.dalyventures.com/) for how governed AI moves from opportunity to adoption, and what a first engagement looks like.
+- **Research and university partners** — [ai-wages](https://github.com/brdaly/ai-wages) is reproducible evidence on where AI adoption is actually landing in the labour market, citable through its [`CITATION.cff`](https://github.com/brdaly/ai-wages/blob/main/CITATION.cff). Useful for broader-impacts framing and for grounding adoption claims in something checkable.
+- **Engineers** — [Hot-Wheels-Agent/docs/ARCHITECTURE.md](https://github.com/brdaly/Hot-Wheels-Agent/blob/main/docs/ARCHITECTURE.md) is the clearest statement of the trust boundaries, the rights model, and the architecture decision records behind all of this.
+- **Everyone else** — each repository states its own status, support expectations, and security reporting path in [SUPPORT.md](https://github.com/brdaly/.github/blob/main/SUPPORT.md) and [SECURITY.md](https://github.com/brdaly/.github/blob/main/SECURITY.md).
+
+---
+
 Repositories from 2019 to 2023, covering machine-learning coursework, tokens, and NFT contracts, are kept as historical reference.
