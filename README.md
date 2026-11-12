@@ -2,7 +2,7 @@
 
 **Applied AI and the economics of AI adoption.**
 
-I build decision systems where the rules are explicit, the evidence is checkable, and a person stays accountable for the call. Alongside that I study where AI is actually being used across the labour market, and what that says about adoption.
+I build decision systems where the rules are explicit, the evidence is checkable, and a person stays accountable for the call. Alongside that I study AI exposure across the labour market and its implications for adoption.
 
 From Cork, Ireland · based in South Bend, Indiana · [dalyventures.com](https://www.dalyventures.com/)
 
@@ -12,7 +12,7 @@ From Cork, Ireland · based in South Bend, Indiana · [dalyventures.com](https:/
 
 **[ai-wages](https://github.com/brdaly/ai-wages)** · Research · MIT
 
-Where generative AI is actually used across the wage distribution. Joins the Anthropic Economic Index to BLS occupational wages and contrasts observed use with a decade of predicted-automatability forecasts. They are close to mirror images: observed exposure rises with wages, predicted automatability falls.
+AI exposure across the wage distribution. Joins Anthropic's March 2026 hybrid observed-exposure measure to a legacy occupational wage and automatability table. The descriptive comparisons use frozen source snapshots and document their different vintages and measurement limits.
 
 One command reproduces every number and figure from the committed public data, and CI re-runs the analysis on every change.
 
@@ -56,7 +56,7 @@ Next.js · React · TypeScript · Node.js · Cloudflare Workers and D1 · Supaba
 ## Where to start
 
 - **Funders and partners** — [dalyventures.com](https://www.dalyventures.com/) for how governed AI moves from opportunity to adoption, and what a first engagement looks like.
-- **Research and university partners** — [ai-wages](https://github.com/brdaly/ai-wages) is reproducible evidence on where AI adoption is actually landing in the labour market, citable through its [`CITATION.cff`](https://github.com/brdaly/ai-wages/blob/main/CITATION.cff). Useful for broader-impacts framing and for grounding adoption claims in something checkable.
+- **Research and university partners** — [ai-wages](https://github.com/brdaly/ai-wages) is a reproducible descriptive analysis of AI exposure and occupational wages, citable through its [`CITATION.cff`](https://github.com/brdaly/ai-wages/blob/main/CITATION.cff). Useful for framing research questions about exposure, adoption, and their measurement.
 - **Engineers** — [Hot-Wheels-Agent/docs/ARCHITECTURE.md](https://github.com/brdaly/Hot-Wheels-Agent/blob/main/docs/ARCHITECTURE.md) is the clearest statement of the trust boundaries, the rights model, and the architecture decision records behind all of this.
 - **Everyone else** — each repository states its own status, support expectations, and security reporting path in [SUPPORT.md](https://github.com/brdaly/.github/blob/main/SUPPORT.md) and [SECURITY.md](https://github.com/brdaly/.github/blob/main/SECURITY.md).
 
